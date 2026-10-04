@@ -1,0 +1,6 @@
+.env
+*.log
+__pycache__/
+*.pyc
+contacts.xlsx
+birthday_report.xlsx
